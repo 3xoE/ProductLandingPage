@@ -43,9 +43,6 @@ img {
 }
 
 
-
-
-
 .circle{
     width:200px;
     height:200px;
@@ -101,6 +98,7 @@ img {
    0%{
     left:-25%;
    }
+
    100%{
     left:50%;
    }
